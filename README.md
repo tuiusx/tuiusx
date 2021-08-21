@@ -1,6 +1,4 @@
 ## Oi👋! Eu sou o Ricardo Martins
-🧑🏿‍🚀Meu proposito e minha realização esta em tecnologia, comecei realizando um curso técnico em Informática no SENAC, com isso comecei a consertar computadores, e foi só o começo de uma grande paixão por essa área, sou muito criativo, porém só isso não basta e para aprimorar minhas habilidades cursei na IMPACTA Análise e desenvolvimento de sistema, atualmente estou cursando na IMPACTA sistemas da informação.
-Com tempo de folga gosto de ler, e jogar vídeo game e passear 😎.
 
 <div>
   <a href="https://github.com/tuiusx">
