@@ -1,57 +1,77 @@
-# Ricardo Martins
+<h1 align="center">Tuius Martins</h1>
+<p align="center">
+  Desenvolvedor Full Stack em formação, focado em aplicações web e mobile com JavaScript/TypeScript.
+</p>
 
-Desenvolvedor em formação com foco em aplicações web modernas, criando soluções com JavaScript/TypeScript, Node.js e Next.js.  
-Developer in training focused on modern web applications, building solutions with JavaScript/TypeScript, Node.js, and Next.js.
+<p align="center">
+  <a href="https://github.com/tuiusx">GitHub</a> •
+  <a href="https://www.linkedin.com/in/tuius-martins/">LinkedIn</a> •
+  <a href="https://www.instagram.com/tuius_/">Instagram</a> •
+  <a href="https://x.com/tuius_">X/Twitter</a>
+</p>
+
+---
 
 ## Sobre | About
 
 **PT-BR**  
-Sou estudante de **Sistemas de Informação (IMPACTA)** com formação técnica em **Informática (SENAC)**.  
-Tenho experiência prática com suporte técnico, manutenção de computadores e desenvolvimento web.  
-Busco evoluir como desenvolvedor full stack, com foco em código limpo, performance e boas práticas.
+Estudante de **Sistemas de Informação (IMPACTA)**, com formação técnica em **Informática (SENAC)**.  
+Tenho experiência prática com desenvolvimento web/mobile e foco em construir interfaces modernas, APIs organizadas e projetos com boa experiência de uso.
 
 **EN**  
-I’m an **Information Systems** student at IMPACTA with a technical background in **IT (SENAC)**.  
-I have hands-on experience with technical support, computer maintenance, and web development.  
-I’m currently growing as a full stack developer, focusing on clean code, performance, and best practices.
+I’m an **Information Systems** student (IMPACTA) with a technical background in **IT (SENAC)**.  
+I build web/mobile projects with a focus on clean architecture, modern UI, and real product experience.
 
-## Stack
+---
+
+## Stack Principal | Core Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+---
 
 ## Projetos em Destaque | Featured Projects
 
-- [Projeto 1](https://github.com/tuiusx/SEU-REPO-1)  
-  PT: Plataforma web para [problema que resolve], com [tecnologia principal].  
-  EN: Web platform to solve [problem], built with [main technology].
+### 1) [portfolio-rm](https://github.com/tuiusx/portfolio-rm)
+**PT:** Portfólio pessoal responsivo com tema claro/escuro, foco em apresentação profissional e projetos reais.  
+**EN:** Responsive personal portfolio with light/dark theme, focused on professional presentation and real projects.  
+**Stack:** HTML, CSS, JavaScript
 
-- [Projeto 2](https://github.com/tuiusx/SEU-REPO-2)  
-  PT: API para [função], com autenticação e integração com banco de dados.  
-  EN: API for [purpose], including authentication and database integration.
+### 2) [nearby-mobile](https://github.com/tuiusx/nearby-mobile)
+**PT:** App mobile com Expo/React Native usando navegação e componentes reutilizáveis.  
+**EN:** Mobile app built with Expo/React Native using routing and reusable UI components.  
+**Stack:** React Native, Expo Router, TypeScript
 
-- [Projeto 3](https://github.com/tuiusx/SEU-REPO-3)  
-  PT: Aplicação front-end com foco em UX e performance.  
-  EN: Front-end application focused on UX and performance.
+### 3) [trip-planner](https://github.com/tuiusx/trip-planner)
+**PT:** Aplicação front-end para planejamento de viagens com interface moderna e tipagem forte.  
+**EN:** Front-end app for trip planning with modern UI and strong typing.  
+**Stack:** React, TypeScript, Vite, TailwindCSS
 
-## Objetivo Profissional | Career Goal
+### 4) [coffee-delivery](https://github.com/tuiusx/coffee-delivery)
+**PT:** E-commerce de café com carrinho, fluxo de pedido e validação de formulário.  
+**EN:** Coffee e-commerce with cart flow, checkout process, and form validation.  
+**Stack:** React, TypeScript, Styled Components, React Hook Form, Zod  
+**Demo:** [coffee-delivery-self.vercel.app](https://coffee-delivery-self.vercel.app/)
 
-**PT-BR:** Atuar como desenvolvedor full stack, contribuindo em projetos escaláveis com impacto real no negócio.  
-**EN:** Work as a full stack developer, contributing to scalable projects with real business impact.
+---
 
-## Contato | Contact
+## Objetivo | Career Goal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuius-martins/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tuius_/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/tuius_)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+**PT-BR:** Atuar como desenvolvedor full stack, contribuindo com produtos digitais escaláveis e bem estruturados.  
+**EN:** Work as a full stack developer, contributing to scalable and well-structured digital products.
+
+---
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=tuiusx&show_icons=true&theme=default&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuiusx&layout=compact&hide_border=true)
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tuiusx&show_icons=true&theme=default&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuiusx&layout=compact&hide_border=true" />
+</p>
