@@ -1,4 +1,4 @@
-<h1 align="center">Tuius Martins</h1>
+<h1 align="center">Ricardo Martins</h1>
 <p align="center">
   Desenvolvedor Full Stack em formação, focado em aplicações web e mobile com JavaScript/TypeScript.
 </p>
